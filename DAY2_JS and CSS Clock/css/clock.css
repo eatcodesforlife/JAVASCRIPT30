@@ -40,6 +40,6 @@ body {
   top: 50%;
   transform-origin: 100%; /*for pivot point to be on the very right end of each .hand divs*/
   transform: rotate(90deg);
-  transition: all 0.05s;
+  transition: all 0.01s;
   transition-timing-function: cubic-bezier(0.01, 2.7, 0.58, 1);
 }
